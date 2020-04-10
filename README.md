@@ -46,7 +46,8 @@ I wondered how these rates are distributed.  So I looked at jitter plot of the r
 
 ![Plot 3](https://github.com/TheMrLively/seattle_library/blob/master/images/ckouts_rates_jitter.png)
 
-Before moving forward, I took another look and plottef the rates into a histogram and to see how it fell under a normal distribution with our mean and standard deviation.  
+
+Before moving forward, I took another look and plotted the rates into a histogram and to see how it fell under a normal distribution with our mean and standard deviation.  
 
 #### Mean Rate of Change in Checkouts = .015
 #### Standard Deviation of Rate of Change = .053

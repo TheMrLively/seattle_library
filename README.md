@@ -1,4 +1,4 @@
-# Love in the time of Covid-19
+# Online Checkouts in the Time of COVID-19
 
 First things first, I have an admission, I love the Seattle Public Library. 
 

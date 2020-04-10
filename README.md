@@ -3,7 +3,7 @@
 First things first, I have an admission, I love the Seattle Public Library. 
 
 On Thursday, March 12, it was announced that the Seattle Public Library would be closing the next day, Friday, March 13, due to COV-19 for the foreseeable future.   Then, it was announced that Seattle Public Schools would be closed through April 27th.  
-WOW, things just got real really fast.  No school and no library.  We rely on the library and visit 2-3 times per week as a family.   We needed to get to the library fast.  The thought of not enough books and audiobooks to entertain the kids for the 6 weeks was panic inducing.   The scene at the Douglass Truth library was just like a Costco toilet paper aisle.   There were lines 5-6 people deep at the self-checkout, large parts of shelves in the children’s section were empty, social distancing had gone awry.   This was hoarding Seattle style.   How would we survive an extended library closure?  But wait? A light in the darkness.  The Seattle Public Library allows cardholders to check materials digitally!  
+WOW, things just got real really fast.  No school for the kids and no library.  We rely on the library and visit 2-3 times per week as a family.   We needed to get to the library fast.  The thought of not enough books and audiobooks to entertain the kids for the 6 weeks was panic inducing.   The scene at the Douglass Truth library was just like a Costco toilet paper aisle.   There were lines 5-6 people deep at the self-checkout, large parts of shelves in the children’s section were empty, social distancing had gone awry.   This was hoarding Seattle style.   How would we survive an extended library closure?  But wait? A light in the darkness.  The Seattle Public Library allows cardholders to check materials digitally!  
 Using Seattle Public Library data from the 
  
 **Would the library see a huge uptick in the amount of materials checkout digitally?**  
@@ -35,10 +35,9 @@ In looking at the data, and plotting it over time, I could see that the mean che
 
 
 
-Plot two insert
 ![Plot 2](https://github.com/TheMrLively/seattle_library/blob/master/images/monthly_ckouts_rates.png)
 
-Null Hypothesis Part II:   
+A New Null Hypothesis:   
 
 **There is no difference in the rate of change of digital checkouts between March 2020 and other months.**
 
@@ -57,9 +56,11 @@ Before moving forwardI figured I took another look and plottec the rates into a 
 Now we will use a normal distribution with our test statistics to test our hypothesis.  
 Include test stats. 
 
-**Mean Rate of Change in Checkouts = 
-**Mean Standard Deviation of Rate of Change = 
-**Rate of Change in March 2020 = 
+
+ #### Mean Rate of Change in Checkouts = .015
+ #### Standard Deviation of Rate of Change = .053
+ #### Rate of Change in March 2020 = .067
+
 
 
 ![Plot 5](https://github.com/TheMrLively/seattle_library/blob/master/images/monthly_ckouts_pval.png) 

@@ -70,7 +70,7 @@ March did not have a significant increase in the rate of change in March 2020.  
 March 2020 was the first month that Digital OverDrive checkouts exceed Physical checkouts. This took place because library locations were only open for the first 13 days of the month.  If the continued rate of growth continues, it is possilble that one day digital checkouts will exceed phsical checkouts. The continued rate of growth for online checkouts speaks to the success of the Seattle Public library to continue to build the capacity to allow this rate of ongoing growth.   I know that even in 100 Years of Solitude, the Seattle Public Library has my back.  
 
 
-### Future Question
+### Future Questions
 - What does the streaming look like Freegal, Zinio, Hoopla? - Could welook at 2017-2018 and try to project growth to today to get a truer sense of the online digital checkouts.  
 - On what date would digital checkouts exceed physical checkouts assuming the current growth rate? 
 

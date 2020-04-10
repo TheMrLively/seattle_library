@@ -60,7 +60,7 @@ The histogram under the normal distribution plot seems to fit so I moved forward
 
 ![Plot 5](https://github.com/TheMrLively/seattle_library/blob/master/images/monthly_ckouts_pval.png) 
 
-Because the p-value of the March 2020 rate of change is .165, we failed to reject the null hypothesis.  There is not a significant difference in the rate of change in March.   
+Because the p-value of the March 2020 rate of change is .165, we failed to reject the null hypothesis.  There was not a significant difference in the rate of change in March.   
 
 
 

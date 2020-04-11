@@ -71,7 +71,7 @@ March 2020 was the first month that Digital OverDrive checkouts exceed Physical 
 
 
 ### Future Questions
-- What does the streaming look like Freegal, Zinio, Hoopla? - Could welook at 2017-2018 and try to project growth to today to get a truer sense of the online digital checkouts.  
+- If we projected growth on Zinio, Freegal, Hoopla from earlier data, what would digital checkout growth look like?  
 - On what date would digital checkouts exceed physical checkouts assuming the current growth rate? 
 
 ### 2020 Library Checkouts in Tableau 
